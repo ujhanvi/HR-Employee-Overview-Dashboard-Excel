@@ -24,7 +24,7 @@ The dashboard is designed for HR managers and leadership to quickly analyze work
 - Dashboard Layout & Data Visualization
 
 ## 📌 Dashboard Preview
-![Dashboard Preview]<img width="1343" height="532" alt="dashboard_preview" src="https://github.com/user-attachments/assets/94e06acb-8d0e-489b-a032-096b35cedd3f" />
+<img width="1343" height="532" alt="dashboard_preview" src="https://github.com/user-attachments/assets/94e06acb-8d0e-489b-a032-096b35cedd3f" />
 
 
 ## 🧠 Business Insights
